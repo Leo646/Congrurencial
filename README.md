@@ -4,7 +4,7 @@
 Se explicara paso a paso en funcionamiento del programa así como el resultado que  arroja.
  
                                                   Desarrollo 
-Generadores Congruenciales Lineales
+     Generadores Congruenciales Lineales
    Estos son capaces de generar una secuencia de números pseudoaleatorios en el cual el próximo número pseudoaleatorio es determinado a partir del último número generado, es decir, el número pseudoaleatorio ![image](https://user-images.githubusercontent.com/33529768/57994095-29abb700-7a81-11e9-8d91-e16b55edf464.png) es derivado a partir del número pseudoaleatorio![image](https://user-images.githubusercontent.com/33529768/57994110-421bd180-7a81-11e9-9dde-c8ba0fef7c53.png)
 	
  Para el caso particular del generador congruencial mixto, la relación de recurrencia es la siguiente ![image](https://user-images.githubusercontent.com/33529768/57994142-5e1f7300-7a81-11e9-8920-2035d44b8896.png)
