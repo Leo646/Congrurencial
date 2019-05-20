@@ -15,8 +15,8 @@ Donde:
 	c = es la constante aditiva.
 	m = es el modulo.
 
-Funcionamiento del  Programa del generador congruencial mixto
-Para desarrollar el programa Congruencial mixto, se empieza creando clase que se va  a llamar “public class CongruencialMixto”. Dentro de la clase, se declaran la variables que se van a utilizar para el funcionamiento del programa y almacenamiento de los resultados, en este caso las variables para la semilla (X0),  el multiplicador (a), la constante aditiva (c), el modulo (m), el resultado del seudocódigo ![image](https://user-images.githubusercontent.com/33529768/57994095-29abb700-7a81-11e9-8d91-e16b55edf464.png) (Xn1) y el resultado del seudocódigo ![image](https://user-images.githubusercontent.com/33529768/57994110-421bd180-7a81-11e9-9dde-c8ba0fef7c53.png)  (xn).
+      Funcionamiento del  Programa del generador congruencial mixto
+   Para desarrollar el programa Congruencial mixto, se empieza creando clase que se va  a llamar “public class CongruencialMixto”. Dentro de la clase, se declaran la variables que se van a utilizar para el funcionamiento del programa y almacenamiento de los resultados, en este caso las variables para la semilla (X0),  el multiplicador (a), la constante aditiva (c), el modulo (m), el resultado del seudocódigo ![image](https://user-images.githubusercontent.com/33529768/57994095-29abb700-7a81-11e9-8d91-e16b55edf464.png) (Xn1) y el resultado del seudocódigo ![image](https://user-images.githubusercontent.com/33529768/57994110-421bd180-7a81-11e9-9dde-c8ba0fef7c53.png)  (xn).
 
 
 ![i](https://user-images.githubusercontent.com/33529768/57993554-244d6d00-7a7f-11e9-9104-de682b6b2ed5.jpg)
